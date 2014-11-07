@@ -1,0 +1,11 @@
+#top h1, #top h2{
+    color: white;
+    display: inline-block;
+
+}
+
+.header{
+  -webkit-box-shadow: inset 10px -29px 158px 43px rgba(0,0,0,0.62);
+  -moz-box-shadow: inset 10px -29px 158px 43px rgba(0,0,0,0.62);
+  box-shadow: inset 10px -29px 158px 43px rgba(0,0,0,0.62);
+}
